@@ -38,7 +38,7 @@ Simply include the header file and wrap your sensitive strings with the `sk()` m
 
 ```cpp
 #include <iostream>
-#include "skcrypter.h" // or cxobfuscator.h
+#include "skcrypter.h"
 
 int main() {
     // STANDARD STRING
